@@ -1,45 +1,40 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=FF1493&height=250&section=header&text=HANIITA%20CREATIVE%20🦋&fontSize=70&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=HANIITA%20🌸&fontSize=80&animation=twinkling&fontAlignY=40" />
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Expertise-Hardware_Systems-ff1493?style=for-the-badge&logo=cpu" />
-  <img src="https://img.shields.io/badge/Focus-Glassmorphism_UI-white?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Hardware-Specialist_Expert-FF1493?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Architect-Glassmorphism_Pro-000000?style=for-the-badge&logo=css3&logoColor=FF1493" />
 </div>
 
 ---
 
-### 👋 Welcome to my Digital Universe!
-I am **Haniita**, a Full-Stack Creative Developer and Hardware Specialist based in **Hargeisa, Somaliland**. I specialize in bridging the gap between high-performance hardware and elegant web architectures.
+### 👋 Welcome to Haniita's Creative Lab! 
+I am a **Creative Developer** and **Hardware Systems Engineer** based in **Hargeisa**. I blend the raw power of hardware with the elegance of modern web design.
 
-* 🛠️ **Current Focus:** Advanced CSS Glassmorphism & UI Animations.
-* 🚀 **Hardware:** Specialist in system optimization and hardware-software integration.
-* 📍 **Base:** Hargeisa, Somaliland.
+* 🛠️ **Hardware Mastery:** Specialist in PC optimization & hardware-level architecture.
+* 🎨 **UI Innovation:** Crafting high-end glassmorphism and neon-glow interfaces.
+* 🚀 **Tech Stack:** HTML5, CSS3 (Expert), JS (Dynamic), & Hardware Systems.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 📊 Performance Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumayaahmet9-sys&show_icons=true&theme=rose_pine&hide_border=true&title_color=FF1493&icon_color=FF1493" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumayaahmet9-sys&layout=compact&theme=rose_pine&hide_border=true&title_color=FF1493" width="45%" />
+</p>
+
+---
+
+### ⚡ My Digital Toolbox
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Ecosystem Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumayaahmet9-sys&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumayaahmet9-sys&layout=compact&theme=rose_pine&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumayaahmet9-sys&theme=rose_pine&hide_border=true" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hardware-Expert-FF1493?style=flat-square&logo=micro-chip&logoColor=white" />
 </p>
 
 ---
 <p align="right">
-  <i>"Precision in hardware, elegance in code."</i> 🌸🪷
+  <i>"Hardware is the soul, Code is the heartbeat."</i> 🪷🌸
 </p>
-
